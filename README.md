@@ -8,7 +8,6 @@ A small Luxor inspired drawing API for Python
 - probably. No further questions.
 
   ex:
-  ```python
 from luxor_like import png, sethue, circle, O
 
 with png("example.png", 400, 400):
