@@ -1,4 +1,4 @@
-# Luxor-Like
+# Luxor_Like
 A small Luxor API for Python
 
 "Hey Red, why not just use Luxor instead of building a whole API for Python?"
