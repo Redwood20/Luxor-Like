@@ -2,10 +2,10 @@
 A small Luxor inspired drawing API for Python
 
 "Hey Red, why not just use Luxor instead of building a whole API for Python?"
-- cause I'm lazy
+- Cause I'm lazy
 
 "Hey Red, wouldn't it be less work to just use Luxor?"
-- probably. No further questions.
+- Probably. No further questions.
 
   ex:
 from luxor_like import png, sethue, circle, O
